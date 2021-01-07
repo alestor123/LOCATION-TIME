@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for getting time of ther locations",
   "main": "App.js",
+  "bin": {
+    "location-time": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
